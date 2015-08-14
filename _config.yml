@@ -1,1 +1,19 @@
-highlighter: rouge
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Frederico Zveiter
+description:      'Notes on Game Development'
+url:              http://fredzvt.github.io
+baseurl:          /
+
+author:
+  name:           'Frederico Zveiter'
+  url:            https://www.linkedin.com/in/fredericozveiter
+
+paginate:         5
