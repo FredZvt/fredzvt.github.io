@@ -91,15 +91,15 @@ h1 {
   font-size: 1.9rem;
 }
 h2 {
-  margin-top: 1rem;
+  margin: 1.5rem 0;
   font-size: 1.5rem;
 }
 h3 {
-  margin-top: 1.5rem;
+  margin: 1.5rem 0;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
-  margin-top: 1rem;
+  margin: 1.5rem 0;
   font-size: 1rem;
 }
 
@@ -330,7 +330,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 /* Blog post or page title */
