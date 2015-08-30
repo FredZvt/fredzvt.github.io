@@ -1,6 +1,6 @@
 ---
 layout: page-with-date
-title: "VFS Audio Assignment: The Darkness Monologue"
+title: "VFS Assignment: The Darkness Monologue"
 date: 2014 Dez
 ---
 

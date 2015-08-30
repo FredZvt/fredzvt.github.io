@@ -1,6 +1,6 @@
 ---
 layout: page-with-date
-title: "VFS Photoshop Assignment: Grime, History and Scale via Textures"
+title: "VFS Assignment: Grime, History and Scale via Textures"
 date: 2014 Nov
 ---
 
