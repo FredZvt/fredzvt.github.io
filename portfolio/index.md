@@ -15,7 +15,21 @@ I create programs and games professionally and arts by hobby. I've always loved 
 
 <p class="portfolio-entry">
 <a href="{{ site.baseurl }}portfolio/arts/vfs-grime-assignment">
-2014 Nov - VFS Assignment: Grime, History and Scale via Textures
+2014 Nov - VFS Photoshop Assignment: Grime, History and Scale via Textures
 <img src="{{ site.baseurl }}public/images/portfolio/arts/vfs-grime-assignment/header.jpg">
+</a>
+</p>
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}portfolio/arts/vfs-audio-assignment">
+2014 Dez - VFS Audio Assignment: The Darkness Monologue
+<img src="{{ site.baseurl }}public/images/portfolio/arts/vfs-audio-assignment/header.jpg">
+</a>
+</p>
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}portfolio/arts/paper-angry-birds">
+2011 Jan - Angry Birds in paper craft
+<img src="{{ site.baseurl }}public/images/portfolio/arts/paper-angry-birds/header.jpg">
 </a>
 </p>
