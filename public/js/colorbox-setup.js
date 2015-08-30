@@ -1,6 +1,6 @@
 $(function() {
 
-	$('a.colorbox').colorbox({maxWidth:'95%', maxHeight:'95%'});
+	$('a.colorbox').colorbox({maxWidth:'95%', maxHeight:'95%', rel:'colorbox'});
 	
 	/* Colorbox resize function */
 	var resizeTimer;
