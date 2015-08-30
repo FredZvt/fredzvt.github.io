@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<!-- -------------------------------------------------------------------- -->
+<!-- Vancouver Film School - Web Apps 1 Final Assignment Battleships Game -->
+<!-- Copyrights 2014 Frederico Zveiter (frederico.zveiter@gmail.com)      -->
+<!-- All rights reserved                                                  -->
+<!-- -------------------------------------------------------------------- -->
+<html>
+    <head>
+
+        <title>Battleships</title>
+
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <script type="text/javascript" src="js/libs/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="js/libs/jquery-ui-1.11.2.min.js"></script>
+        <script type="text/javascript" src="js/libs/buzz.min.js"></script>
+
+    </head>
+    <body>
+
+        <div id="centeredContainer">
+        
+            <section id="secMainMenu" class="gameScreen">
+                <h1>BATTLESHIPS</h1>
+				<h2>By PG03 <a href="http://fredzvtgamedev.com/" target="_blank">Frederico Zveiter</a></h2>
+				<div id="btnOnePlayer" class="button">One player</div>
+                <div id="btnTwoPlayers" class="button">Two players (hot seat)</div>
+            </section>
+
+            <section id="secPlayerBoards" class="gameScreen" style="display: none;">
+                
+                <div id="playerOne" class="playerDivision">
+                    <h1>Player 1 Board</h1>
+                    <div class="boardArea">
+                        <table class="board">
+                            <!-- dynamic html -->
+                        </table>
+                    </div>
+                    <div class="infoArea">
+                        <div class="playerStats">
+                            <span class="remainingShotsLabel">Player 1 Remaining Shots:</span>
+                            <span class="remainingShotsNumber">999</span>
+                        </div>
+                        <div class="fleetStatus">
+                            <table class="fleetStatus">
+                                <!-- dynamic html -->
+                            </table>
+                        </div>
+                    </div>
+                    <section class="instructionBox" style="display: none;">
+                    </section>
+                </div>
+
+                <div id="playerTwo" class="playerDivision">
+                    <h1>Player 2 Board</h1>
+                    <div class="boardArea">
+                        <table class="board">
+                            <!-- dynamic html -->
+                        </table>
+                    </div>
+                    <div class="infoArea">
+                        <div class="playerStats">
+                            <span class="remainingShotsLabel">Player 2 Remaining Shots:</span>
+                            <span class="remainingShotsNumber">999</span>
+                        </div>
+                        <div class="fleetStatus">
+                            <table class="fleetStatus">
+                                <!-- dynamic html -->
+                            </table>
+                        </div>
+                    </div>
+                    <section class="instructionBox" style="display: none;">
+                    </section>
+                </div>
+
+            </section>
+                
+			<div id="announceBox" style="display: none;">
+				<span id="announceMessage"></span>
+				<span id="btnAnnounceBack" class="button">Back to main menu</span>
+			</div>
+            
+        </div>
+
+        <section id="javascripts">
+            
+            <script type="text/javascript" src="js/Ship.js"></script>
+            <script type="text/javascript" src="js/Board.js"></script>
+            <script type="text/javascript" src="js/Game.js"></script>
+
+            <script type="text/javascript">
+                $(function () {
+                    Game.init();
+                });
+            </script>
+
+        </section>
+
+    </body>
+</html>
