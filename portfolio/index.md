@@ -7,8 +7,6 @@ title: Portfolio
 
 ## Programming
 
-Take a look at some of my programs and games.
-
 <p class="portfolio-entry">
 <a href="{{ site.baseurl }}portfolio/games/battleships">
 2014 Dez - VFS Assignment: Battleships Web

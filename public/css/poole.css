@@ -81,7 +81,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: 1rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -261,6 +261,7 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1rem;
   font-weight: 300;
+  margin-top: -1rem;
 }
 
 
