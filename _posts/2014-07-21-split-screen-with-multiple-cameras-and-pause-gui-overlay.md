@@ -20,7 +20,7 @@ You can find the source for this article at [GitHub](https://github.com/FredZvt/
 
 In the video below you can see the final result of this article:
 
-<iframe src="http://www.youtube.com/embed/SsXwZKo-uOI" width="800" height="600" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/SsXwZKo-uOI?rel=0&amp;showinfo=0" width="800" height="600" frameborder="0"></iframe>
 
 ## Splitting the screen in two cameras
 

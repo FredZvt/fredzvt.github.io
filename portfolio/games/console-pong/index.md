@@ -10,4 +10,4 @@ You can <a href="https://bitbucket.org/fredzvt/consolepong/src" target="_blank">
 
 Below you can see a video of the game:
 
-<iframe src="http://www.youtube.com/embed/1AkLG4iTx8k" width="740" height="520" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/1AkLG4iTx8k?rel=0&amp;showinfo=0" width="740" height="520" frameborder="0"></iframe>
