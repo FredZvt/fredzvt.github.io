@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Articles
+title: Articles Index
 ---
 
-> Spare ribs andouille swine drumstick. Bresaola rump cow jowl kielbasa, brisket ribeye landjaeger jerky ham chicken. Frankfurter strip steak corned beef pork chop tenderloin landjaeger ball tip tongue drumstick jerky boudin sausage doner.
-
-<ul>
-{% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
+<table>
+	<thead><tr><th>Date</th><th>Article</th></tr></thead>
+	<tbody>
+	{% for post in site.posts %}
+		<tr><td>{{ post.date | date_to_string }}</td><td><a href="{{ post.url }}">{{ post.title }}</a></td></tr>
+	{% endfor %}
+	</tbody>
+</table>

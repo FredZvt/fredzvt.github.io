@@ -11,3 +11,6 @@ author:
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
+
+gems:
+  - jekyll-redirect-from
