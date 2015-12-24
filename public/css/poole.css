@@ -443,3 +443,8 @@ a.pagination-item:hover {
     display: inline;
     margin-right: 9px;
 }
+
+iframe {
+	margin: 0 0 1rem;
+    border-radius: 5px;
+}

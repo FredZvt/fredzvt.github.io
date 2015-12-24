@@ -26,13 +26,13 @@ In the video below you can see the final result of this article:
 
 Well, this part was really simple and fast. Unity let us define what part of available screen space we'll use to render the camera in the **Viewport Rect** property. Thus, we just have to setup both camera height to 0.5 and the top camera's Y position to 0.5. That's it! Now our screen's top half will be rendered through the first camera and the bottom half through the second.
 
-![]({{ site.baseurl }}public/images/unity-split-screen/camera-viewport-rect.jpg "")
+![]({{ site.baseurl }}public/images/articles/unity-split-screen/camera-viewport-rect.jpg "")
 
 ## Creating GUI elements for each camera
 
 When we create GUI elements in UNITY, every camera that has a *GUILayer* component (all, by default) will render that element. To prevent a GUI element to be rendered by a camera, we have to include that GUI element in a specific layer and exclude this layer from the camera's **Culling Mask** property.
 
-![]({{ site.baseurl }}public/images/unity-split-screen/gui-text-excluded-from-camera.jpg "")
+![]({{ site.baseurl }}public/images/articles/unity-split-screen/gui-text-excluded-from-camera.jpg "")
 
 ## Controlling the players
 I have not devoted much attention to the control of the players in this case because it was not the intention of the study. I just applied simple forces for lateral moves and a pseudo "jump" that can be activated at any time.
@@ -182,9 +182,9 @@ This was the part I found most interesting in this study. In order to render a G
 
 Once the new camera has been configured, we can create the GUI exclusively for it using the same technique described in the topic "Creating GUI elements for each camera."
 
-![]({{ site.baseurl }}public/images/unity-split-screen/camera-layers.jpg "")
+![]({{ site.baseurl }}public/images/articles/unity-split-screen/camera-layers.jpg "")
 
-![]({{ site.baseurl }}public/images/unity-split-screen/pause-menu-camera.jpg "")
+![]({{ site.baseurl }}public/images/articles/unity-split-screen/pause-menu-camera.jpg "")
 
 To display or hide the pause GUI, I've grouped all GUI elements under an empty *GameObject* and enable or disable this object. Below is the full script that I've used to react to the press of the P key:
 
