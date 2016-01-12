@@ -17,5 +17,5 @@ By the middle of 2014, I decided to go for the big dream of being among those wh
 
 Now I'm a professional game developer at the start of my new career and decided to create this website to show my experiments, games and make some thoughts public. I hope you enjoy them as much as I enjoyed to create!
 
-Cheers!
-Fred
+Cheers!  
+*Fred*
