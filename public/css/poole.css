@@ -448,3 +448,11 @@ iframe {
 	margin: 0 0 1rem;
     border-radius: 5px;
 }
+
+.sidebar-sticky img {
+	border: none;
+	width: 33px;
+	height: 33px;
+	display: inline;
+    margin: 5px;
+}

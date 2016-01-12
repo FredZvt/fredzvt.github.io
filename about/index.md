@@ -18,11 +18,3 @@ By the middle of 2014, I decided to go for the big dream of being among those wh
 Now I'm a professional game developer at the start of my new career and decided to create this website to show my experiments, games and make some thoughts public. I hope you enjoy them as much as I enjoyed to create!
 
 Cheers!
-
-## Contacts
-
-<div id="contacts">
-	<span class="contact"><a href="http://www.linkedin.com/in/fredericozveiter" target="_blank"><img src="{{ site.baseurl }}public/images/about/linked-in-icon.png"></a></span>
-	<span class="contact"><a href="{{ site.baseurl }}public/resume-frederico-zveiter.pdf" target="_blank"><img src="{{ site.baseurl }}public/images/about/resume-icon.png"></a></span>
-	<span class="contact"><a href="mailto:frederico.zveiter@gmail.com"><img src="{{ site.baseurl }}public/images/about/mail-icon.png"></a></span>
-</div>
