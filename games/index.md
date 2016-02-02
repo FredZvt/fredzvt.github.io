@@ -3,6 +3,35 @@ layout: page
 title: Games
 ---
 
+## Futuretown.io Projects
+
+> These are games that worked on for <a href="http://futuretown.io" target="_blank">Futuretown.io</a>, a game studio specialized in VR games.
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}games/a-10">
+A-10 VR (C# and Unity, HTC Vive integration)
+<img src="{{ site.baseurl }}public/images/games/a-10/header.png">
+</a>
+</p>
+
+## VFS Projects
+
+> These are bigger projects that I worked on while attending to the <a href="https://vfs.edu/programs/programming" target="_blank">"Programming for Games, Web and Mobile" program at Vancouver Film School</a>
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}games/ascent">
+Ascent (C# and Unity)
+<img src="{{ site.baseurl }}public/images/games/ascent/header.png">
+</a>
+</p>
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}games/son-of-flynn">
+Son of Flynn (C# and Unity, Oculus DK2 and Kinect V2)
+<img src="{{ site.baseurl }}public/images/games/son-of-flynn/header.png">
+</a>
+</p>
+
 ## VFS Assignments
 
 > These are very small games that I made while attending to the <a href="https://vfs.edu/programs/programming" target="_blank">"Programming for Games, Web and Mobile" program at Vancouver Film School</a>
