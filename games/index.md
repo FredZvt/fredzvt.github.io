@@ -3,9 +3,9 @@ layout: page
 title: Games
 ---
 
-## Futuretown.io Projects
+## Futuretown Projects
 
-> These are games that worked on for <a href="http://futuretown.io" target="_blank">Futuretown.io</a>, a game studio specialized in VR games.
+> These are games that worked on for <a href="http://futuretown.io" target="_blank">Futuretown</a>, a game studio specialized in VR games.
 
 <p class="portfolio-entry">
 <a href="{{ site.baseurl }}games/a-10">
@@ -29,6 +29,45 @@ Ascent (C# and Unity)
 <a href="{{ site.baseurl }}games/son-of-flynn">
 Son of Flynn (C# and Unity, Oculus DK2 and Kinect V2)
 <img src="{{ site.baseurl }}public/images/games/son-of-flynn/header.png">
+</a>
+</p>
+
+## Prototypes
+
+> These are small proof of concepts, made to try a specific mechanic or just for fun.
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}games/vr-pong">
+VR PONG (C# and Unity, HTC Vive integration)
+<img src="{{ site.baseurl }}public/images/games/vr-pong/header.png">
+</a>
+</p>
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}games/vr-rc">
+VR RC (C# and Unity, HTC Vive integration)
+<img src="{{ site.baseurl }}public/images/games/vr-rc/header.png">
+</a>
+</p>
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}games/vr-racket-bricks">
+VR Racket Bricks (C# and Unity, HTC Vive integration)
+<img src="{{ site.baseurl }}public/images/games/vr-racket-bricks/header.png">
+</a>
+</p>
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}games/flying-thing">
+Flying Thing (C# and Unity, HTC Vive integration)
+<img src="{{ site.baseurl }}public/images/games/flying-thing/header.png">
+</a>
+</p>
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}games/hover">
+Hover (C# and Unity, HTC Vive integration)
+<img src="{{ site.baseurl }}public/images/games/hover/header.png">
 </a>
 </p>
 

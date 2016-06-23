@@ -285,6 +285,10 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+.portfolio-entry a {
+  font-weight: bold;
+}
+
 .portfolio-entry img {
   margin: 0.5rem 0 0 0;
 }
