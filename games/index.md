@@ -32,6 +32,18 @@ Son of Flynn (C# and Unity, Oculus DK2 and Kinect V2)
 </a>
 </p>
 
+## Game Jams
+
+> These are games I made during game jams.
+
+
+<p class="portfolio-entry">
+<a href="{{ site.baseurl }}games/virtual-hotas">
+Virtual HOTAS (C# and Unity, Oculus DK2 and Leap Motion 1.7)
+<img src="{{ site.baseurl }}public/images/games/virtual-hotas/header.png">
+</a>
+</p>
+
 ## Prototypes
 
 > These are small proof of concepts, made to try a specific mechanic or just for fun.
