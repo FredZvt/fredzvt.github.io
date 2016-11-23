@@ -8,7 +8,7 @@ A-10 VR is a fresh virtual reality take on a classic sci-fi gallery shooter. Hon
 
 I worked as the sole developer on this game.
 
-<a href="http://store.steampowered.com/app/436220/" target="_blank"><img src="{{ site.baseurl }}public/images/games/a-10/steam-bar.png"></a>
+<a href="http://store.steampowered.com/app/436220/" target="_blank">Available on Steam!</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mUOpUkt7bwg" frameborder="0" allowfullscreen></iframe>
 
