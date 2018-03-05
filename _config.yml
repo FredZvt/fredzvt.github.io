@@ -10,7 +10,7 @@ author:
   
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 gems:
   - jekyll-redirect-from
