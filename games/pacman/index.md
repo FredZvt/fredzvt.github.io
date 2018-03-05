@@ -63,8 +63,8 @@ public static class GameSettings
 
 Walls are then created by analising the matrix and selecting which wall piece to instantiate acording to its neighbors from a collection of six pieces:
 
-<img src="{{ site.baseurl }}public/images/games/pacman/wall-tiles.gif">
+<img src="/public/images/games/pacman/wall-tiles.gif">
 
 That way I could very easily create new levels or implement a procedural level generator. Here is a different level to illustrate the possibility:
 
-<img src="{{ site.baseurl }}public/images/games/pacman/random-level.png">
+<img src="/public/images/games/pacman/random-level.png">

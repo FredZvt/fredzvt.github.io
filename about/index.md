@@ -5,7 +5,7 @@ redirect_from: "/"
 permalink: "about/"
 ---
 
-<img src="{{ site.baseurl }}public/images/about/arrow-on-the-knee.jpg">
+<img src="/public/images/about/arrow-on-the-knee.jpg">
 
 Hi, fellows!
 

@@ -10,7 +10,7 @@ Stallion Adventures was one of the games created for the launch event of the <a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KaUtH87hBAE" frameborder="0" allowfullscreen></iframe>
 
-![]({{ site.baseurl }}public/images/games/stallion-adventures/screen-01.png "")
-![]({{ site.baseurl }}public/images/games/stallion-adventures/screen-02.png "")
-![]({{ site.baseurl }}public/images/games/stallion-adventures/screen-03.png "")
-![]({{ site.baseurl }}public/images/games/stallion-adventures/screen-04.png "")
+![](/public/images/games/stallion-adventures/screen-01.png "")
+![](/public/images/games/stallion-adventures/screen-02.png "")
+![](/public/images/games/stallion-adventures/screen-03.png "")
+![](/public/images/games/stallion-adventures/screen-04.png "")
