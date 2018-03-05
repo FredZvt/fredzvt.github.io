@@ -9,7 +9,7 @@ author:
   url:            https://www.linkedin.com/in/fredericozveiter
   
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 gems:
