@@ -19,7 +19,37 @@ Stallion Adventures (C++, Blueprints, Unreal, Vive, Rift, Totalmotion)
 </a>
 </p>
 
+## Public Presentations
+
+<p class="portfolio-entry">
+<a href="/games/vfs-presentation">
+Vancouver Film School Final Presentation, (EN) Oct 2015
+<img src="/public/images/games/vfs-presentation/header.png">
+</a>
+</p>
+
+<p class="portfolio-entry">
+<a href="/games/udacity-presentation">
+Os desafios no desenvolvimento de games para VR, (PT-BR) Dez 2016
+<img src="/public/images/games/udacity-presentation/header.png">
+</a>
+</p>
+
 ## Prototypes, Studies and Just for Fun
+
+<p class="portfolio-entry">
+<a href="/games/interactive-particles">
+Interactive GPU Particles in VR using Unity
+<img src="/public/images/games/interactive-particles/header.png">
+</a>
+</p>
+
+<p class="portfolio-entry">
+<a href="/games/newton-vr">
+Wasps AI Interaction using NewtonVR
+<img src="/public/images/games/newton-vr/header.png">
+</a>
+</p>
 
 <p class="portfolio-entry">
 <a href="/games/vr-pong">
